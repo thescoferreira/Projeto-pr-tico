@@ -4,13 +4,22 @@
 
 <br> 
 
-<h2>Descrição do projeto</h2>
+<h2><img width="22" src="https://img.icons8.com/color/48/null/read.png"/> Descrição do projeto</h2>
 <p>O Dev Finance é um mini sistema de gerenciamento de contas desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários adicionem suas receitas e despesas, além de exibir o saldo total de suas contas.</p>
 
 <p>Os dados inseridos pelo usuário são salvos localmente, utilizando o "localStorage" do navegador, o que garante que, mesmo que o usuário feche o navegador, as informações serão mantidas e poderão ser acessadas novamente na próxima utilização do sistema.</p>
 
 <br> 
 
- <h2> <img width="23" src="https://img.icons8.com/fluency/48/null/link.png"/> Link do projeto</h2>
+ <h2> <img width="22" src="https://img.icons8.com/fluency/48/null/link.png"/> Link do projeto</h2>
  <a target="_blank" href="https://dev-finance-app.netlify.app/">https://dev-finance-app.netlify.app/</a>
+ 
+ 
+ <br> <br>
+ <h2><img width="22" src="https://img.icons8.com/emoji/48/null/check-mark-emoji.png"/> Tecnologias utilizadas</h2>
+ <ul>
+ <li>HTML</li>
+ <li>CSS</li>
+ <li>JAVASCRIPT</li>
+ </ul>
 
